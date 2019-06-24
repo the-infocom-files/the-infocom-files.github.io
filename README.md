@@ -4,10 +4,10 @@ This is my attempt to construct a working development baseline for all of Infoco
 
 ## The Games
 
-* [ZORK I: The Great Underground Empire](zork1)
-* [ZORK II: The Wizard of Frobozz](https://github.com/the-infocom-files/zork2)
+* [Zork I: The Great Underground Empire](zork1)
+* [Zork II: The Wizard of Frobozz](https://github.com/the-infocom-files/zork2)
 * [Deadline](https://github.com/the-infocom-files/deadline)
-* [ZORK III: The Dungeon Master](https://github.com/the-infocom-files/zork3)
+* [Zork III: The Dungeon Master](https://github.com/the-infocom-files/zork3)
 * [Starcross](https://github.com/the-infocom-files/starcross)
 * [Suspended](https://github.com/the-infocom-files/suspended)
 * [The Witness](https://github.com/the-infocom-files/witness)
