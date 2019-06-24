@@ -17,7 +17,7 @@ This is my attempt to construct a working development baseline for all of Infoco
 * [Sorcerer](https://github.com/the-infocom-files/sorcerer)
 * [Seastalker](https://github.com/the-infocom-files/seastalker)
 * [Cutthroats](https://github.com/the-infocom-files/cutthroats)
-* [Hitchhiker's Guide](https://github.com/the-infocom-files/hitchhiker)
+* [The Hitchhiker’s Guide to the Galaxy](https://github.com/the-infocom-files/hitchhiker)
 * [Suspect](https://github.com/the-infocom-files/suspect)
 * [Wishbringer](https://github.com/the-infocom-files/wishbringer)
 * [A Mind Forever Voyaging](https://github.com/the-infocom-files/amfv)
