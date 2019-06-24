@@ -1,10 +1,8 @@
-# The Infocom Files
-
 *Last updated June 21, 2019 by Alex Proudfoot*
 
 This is my attempt to construct a working development baseline for all of Infocom's games using source code provided by [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/). It exists to provide test material for the [ZILF toolset](https://bitbucket.org/jmcgrew/zilf/wiki/Home) and also to act as a starting point for bug fixes and enhancements by the ZIL Community.
 
-## The Games
+# The Games
 
 * [Zork I](zork1)
 * [Zork II](https://github.com/the-infocom-files/zork2)
@@ -42,7 +40,7 @@ This is my attempt to construct a working development baseline for all of Infoco
 * [Journey](https://github.com/the-infocom-files/journey)
 * [Arthur](https://github.com/the-infocom-files/arthur)
 
-## Solid Gold Editions
+# Solid Gold Editions
 
 * [Zork I](https://github.com/the-infocom-files/zork1-invclues)
 * [Planetfall](https://github.com/the-infocom-files/planetfall-invclues)
@@ -50,13 +48,13 @@ This is my attempt to construct a working development baseline for all of Infoco
 * [Wishbringer](https://github.com/the-infocom-files/wishbringer-invclues)
 * [Leather Goddesses of Phobos](https://github.com/the-infocom-files/leathergoddesses-invclues)
 
-## Demonstrations
+# Demonstrations
 
 * [Mini-Zork 1](https://github.com/the-infocom-files/minizork)
 * [Mini-Zork 2](https://github.com/the-infocom-files/minizork2)
 * [Infocom Sampler](https://github.com/the-infocom-files/sampler)
 
-## Unreleased
+# Unreleased
 
 * [The Abyss](https://github.com/the-infocom-files/abyss)
 * [Checkpoint](https://github.com/the-infocom-files/checkpoint)
