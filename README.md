@@ -1,6 +1,6 @@
 *Last updated June 21, 2019 by Alex Proudfoot*
 
-This is my attempt to construct a working development baseline for all of Infocom's games using source code provided by [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/). It exists to provide test material for the [ZILF toolset](https://bitbucket.org/jmcgrew/zilf/wiki/Home) and also to act as a starting point for bug fixes and enhancements by the ZIL Community.
+This is my attempt to construct a working development baseline for all of Infocom's games using source code provided by [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/). It exists to provide test material for the [ZILF toolset](https://bitbucket.org/jmcgrew/zilf/wiki/Home) and also to act as a starting point for bug fixes and enhancements by the [ZIL Community](https://www.facebook.com/groups/ZILcom/).
 
 ## The Games
 
