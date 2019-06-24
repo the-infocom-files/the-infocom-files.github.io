@@ -6,7 +6,7 @@ This is my attempt to construct a working development baseline for all of Infoco
 
 ## The Games
 
-* [Zork I](https://github.com/the-infocom-files/zork1)
+* [Zork I](zork1)
 * [Zork II](https://github.com/the-infocom-files/zork2)
 * [Deadline](https://github.com/the-infocom-files/deadline)
 * [Zork III](https://github.com/the-infocom-files/zork3)
