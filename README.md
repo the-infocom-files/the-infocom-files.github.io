@@ -1,7 +1,5 @@
 *Last updated June 25, 2019 by Alex Proudfoot*
 
-This site presents a working baseline of Infocom's interactive fiction using source code provided by [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/).
-
 ## The Games
 
 ### Standard
