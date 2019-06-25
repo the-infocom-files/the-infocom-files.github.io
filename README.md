@@ -48,7 +48,7 @@ This site presents a working baseline of Infocom's interactive fiction using sou
 * [Journey](https://github.com/the-infocom-files/journey)
 * [Arthur](https://github.com/the-infocom-files/arthur)
 
-### Solid Gold Editions
+### Integrated Invisiclues Editions
 
 * [Zork I](https://github.com/the-infocom-files/zork1-invclues)
 * [Planetfall](https://github.com/the-infocom-files/planetfall-invclues)
