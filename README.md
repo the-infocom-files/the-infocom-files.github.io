@@ -85,4 +85,4 @@ There are two ways of using this toolset depending on whether or not an abbrevia
 * [Checkpoint]()
 * [Mini-Zork 2]()
 * [Restaurant at the End of the Universe]()
-* [ZORK I: Das Groﬂe Unterweltreich]()
+* [ZORK I: Das Gro√üe Unterweltreich]()
