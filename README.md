@@ -20,9 +20,9 @@ There are two ways of using this toolset depending on whether or not an abbrevia
 ~~~~
 ## Enhanced Usage for Smaller Code
 ~~~~
-> del *.zap
 > zilf game.zil
 > zapf -ab game.zap > game_freq.xzap
+> del game_freq.zap
 > zapf game.zap
 ~~~~
 
