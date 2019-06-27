@@ -1,67 +1,88 @@
-*Last updated June 25, 2019 by Alex Proudfoot*
+*This site is currently under construction. Last updated June 27, 2019 by Alex Proudfoot.*
 
-## The Games
+This site is intended to collect the latest useable source code of each Infocom game as a starting point for rebuilding using Jesse McGrew's [ZILF](https://bitbucket.org/jmcgrew/zilf/wiki/Home) toolset. The source code will be imported from Andrew Plotkin's [Obsessively Complete Infocom Catalog](https://eblong.com/infocom/) minus any extraneous files including unused source files. It will then be edited to remove any compilation errors and tidied up to simplify future bug fixes and enhancements.
 
-### Standard
+# The ZILF Toolset
 
-* [Zork I: The Great Underground Empire](zork1)
-* [Zork II: The Wizard of Frobozz](https://github.com/the-infocom-files/zork2)
-* [Deadline](https://github.com/the-infocom-files/deadline)
-* [Zork III: The Dungeon Master](https://github.com/the-infocom-files/zork3)
-* [Starcross](https://github.com/the-infocom-files/starcross)
-* [Suspended](https://github.com/the-infocom-files/suspended)
-* [The Witness](https://github.com/the-infocom-files/witness)
-* [Planetfall](https://github.com/the-infocom-files/planetfall)
-* [Enchanter](https://github.com/the-infocom-files/enchanter)
-* [Infidel](https://github.com/the-infocom-files/infidel)
-* [Sorcerer](https://github.com/the-infocom-files/sorcerer)
-* [Seastalker](https://github.com/the-infocom-files/seastalker)
-* [Cutthroats](https://github.com/the-infocom-files/cutthroats)
-* [The Hitchhiker‚Äôs Guide to the Galaxy](https://github.com/the-infocom-files/hitchhiker)
-* [Suspect](https://github.com/the-infocom-files/suspect)
-* [Wishbringer](https://github.com/the-infocom-files/wishbringer)
-* [A Mind Forever Voyaging](https://github.com/the-infocom-files/amfv)
-* [Spellbreaker](https://github.com/the-infocom-files/spellbreaker)
-* [Ballyhoo](https://github.com/the-infocom-files/ballyhoo)
-* [Trinity](https://github.com/the-infocom-files/trinity)
-* [Leather Goddesses of Phobos](https://github.com/the-infocom-files/leathergoddesses)
-* [Moonmist](https://github.com/the-infocom-files/moonmist)
-* [Hollywood Hijinx](https://github.com/the-infocom-files/hollywoodhijinx)
-* [Bureaucracy](https://github.com/the-infocom-files/bureaucracy)
-* [Stationfall](https://github.com/the-infocom-files/stationfall)
-* [Nord and Bert Couldn't Make Head or Tail of It](https://github.com/the-infocom-files/nordandbert)
-* [Plundered Hearts](https://github.com/the-infocom-files/plunderedhearts)
-* [Beyond Zork](https://github.com/the-infocom-files/beyondzork)
-* [Border Zone](https://github.com/the-infocom-files/borderzone)
+This is under development. Two versions have been used while setting up this repository.
 
-### Sound Enhanced
+* ZILF/ZAPF 0.8 rel 2017-03-19 (latest release)
+* ZILF/ZAPF 0.8 dev 2019-05-01 (local build)
 
-* [The Lurking Horror](https://github.com/the-infocom-files/lurkinghorror)
-* [Sherlock](https://github.com/the-infocom-files/sherlock)
+There are two ways of using this toolset depending on whether or not an abbreviations file is needed to reduce the size of the Z-code produced.
 
-### Graphic Enhanced
+## Standard Usage
+~~~~
+> zilf game.zil
+> zapf game.zap
+~~~~
+## Enhanced Usage for Smaller Code
+~~~~
+> del *.zap
+> zilf game.zil
+> zapf -ab game.zap > game_freq.xzap
+> zapf game.zap
+~~~~
 
-* [Zork Zero](https://github.com/the-infocom-files/zork0)
-* [Shogun](https://github.com/the-infocom-files/shogun)
-* [Journey](https://github.com/the-infocom-files/journey)
-* [Arthur](https://github.com/the-infocom-files/arthur)
+# The Games
 
-### Integrated Invisiclues Editions
+## Original Releases
 
-* [Zork I](https://github.com/the-infocom-files/zork1-invclues)
-* [Planetfall](https://github.com/the-infocom-files/planetfall-invclues)
-* [Hitchhiker's Guide](https://github.com/the-infocom-files/hitchhiker-invclues)
-* [Wishbringer](https://github.com/the-infocom-files/wishbringer-invclues)
-* [Leather Goddesses of Phobos](https://github.com/the-infocom-files/leathergoddesses-invclues)
+* [Zork I](https://the-infocom-files.github.io/zork1/)
+* [Zork II]()
+* [Deadline]()
+* [Zork III]()
+* [Starcross]()
+* [Suspended]()
+* [The Witness]()
+* [Planetfall]()
+* [Enchanter]()
+* [Infidel]()
+* [Sorcerer]()
+* [Seastalker]()
+* [Cutthroats]()
+* [The Hitchhiker's Guide to the Galaxy]()
+* [Suspect]()
+* [Wishbringer]()
+* [A Mind Forever Voyaging]()
+* [Spellbreaker]()
+* [Ballyhoo]()
+* [Trinity]()
+* [Leather Goddesses of Phobos]()
+* [Moonmist]()
+* [Hollywood Hijinx]()
+* [Bureaucracy]()
+* [Stationfall]()
+* [The Lurking Horror]()
+* [Nord and Bert Couldn't Make Head or Tail of It]()
+* [Plundered Hearts]()
+* [Beyond Zork]()
+* [Border Zone]()
+* [Sherlock]()
+* [Zork Zero]()
+* [Shogun]()
+* [Journey]()
+* [Arthur]()
 
-### Extracts
+## Demos and Samplers
 
-* [Mini-Zork 1](https://github.com/the-infocom-files/minizork)
-* [Mini-Zork 2](https://github.com/the-infocom-files/minizork2)
-* [Infocom Sampler](https://github.com/the-infocom-files/sampler)
+* [Zork Demo]()
+* [The Four-In-One Infocom Sampler (version I)]()
+* [The Four-In-One Infocom Sampler (version II)]()
+* [Mini-Zork I]()
 
-### Unreleased
+## Solid Gold Releases
 
-* [The Abyss](https://github.com/the-infocom-files/abyss)
-* [Checkpoint](https://github.com/the-infocom-files/checkpoint)
+* [Hitchhiker's Guide]()
+* [Leather Goddesses of Phobos]()
+* [Planetfall]()
+* [Wishbringer]()
+* [Zork I]()
+
+## Unreleased Works
+
+* [The Abyss]()
+* [Checkpoint]()
+* [Mini-Zork 2]()
 * [Restaurant at the End of the Universe]()
+* [ZORK I: Das Groﬂe Unterweltreich]()
