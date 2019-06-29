@@ -4,7 +4,7 @@
 
 This site is intended to collect the latest useable source code of each Infocom game as a starting point for rebuilding using Jesse McGrew's [ZILF](https://bitbucket.org/jmcgrew/zilf/wiki/Home) toolset. The source code will be imported from Andrew Plotkin's [Obsessively Complete Infocom Catalog](https://eblong.com/infocom/) minus any extraneous files including unused source files. It will then be edited to remove any compilation errors and tidied up to simplify future bug fixes and enhancements.
 
-# The ZILF Toolset
+## The ZILF Toolset
 
 This is under development. Two versions have been used while setting up this repository.
 
@@ -13,12 +13,12 @@ This is under development. Two versions have been used while setting up this rep
 
 There are two ways of using this toolset depending on whether or not an abbreviations file is needed to reduce the size of the Z-code produced.
 
-## Standard Usage
+### Standard Usage
 ~~~~
 > zilf game.zil
 > zapf game.zap
 ~~~~
-## Enhanced Usage for Smaller Code
+### Enhanced Usage for Smaller Code
 ~~~~
 > zilf game.zil
 > zapf -ab game.zap > game_freq.xzap
@@ -26,9 +26,9 @@ There are two ways of using this toolset depending on whether or not an abbrevia
 > zapf game.zap
 ~~~~
 
-# The Games
+## The Games
 
-## Original Releases
+### Original Releases
 
 * [Zork I](https://the-infocom-files.github.io/zork1/)
 * [Zork II]()
@@ -66,14 +66,14 @@ There are two ways of using this toolset depending on whether or not an abbrevia
 * [Journey]()
 * [Arthur]()
 
-## Demos and Samplers
+### Demos and Samplers
 
 * [Zork Demo]()
 * [The Four-In-One Infocom Sampler (version I)]()
 * [The Four-In-One Infocom Sampler (version II)]()
 * [Mini-Zork I]()
 
-## Solid Gold Releases
+### Solid Gold Releases
 
 * [Hitchhiker's Guide]()
 * [Leather Goddesses of Phobos]()
@@ -81,7 +81,7 @@ There are two ways of using this toolset depending on whether or not an abbrevia
 * [Wishbringer]()
 * [Zork I]()
 
-## Unreleased Works
+### Unreleased Works
 
 * [The Abyss]()
 * [Checkpoint]()
