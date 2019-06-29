@@ -28,7 +28,7 @@ There are two ways of using this toolset depending on whether or not an abbrevia
 
 ## The Games
 
-### Original Releases
+### Original Editions
 
 * [Zork I](https://the-infocom-files.github.io/zork1/)
 * [Zork II](https://the-infocom-files.github.io/zork2/)
@@ -73,7 +73,7 @@ There are two ways of using this toolset depending on whether or not an abbrevia
 * [The Four-In-One Infocom Sampler (version II)]()
 * [Mini-Zork I]()
 
-### Solid Gold Releases
+### Solid Gold Editions
 
 * [Hitchhiker's Guide]()
 * [Leather Goddesses of Phobos]()
