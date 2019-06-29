@@ -31,9 +31,9 @@ There are two ways of using this toolset depending on whether or not an abbrevia
 ### Original Releases
 
 * [Zork I](https://the-infocom-files.github.io/zork1/)
-* [Zork II]()
+* [Zork II](https://the-infocom-files.github.io/zork2/)
 * [Deadline]()
-* [Zork III]()
+* [Zork III](https://the-infocom-files.github.io/zork3/)
 * [Starcross]()
 * [Suspended]()
 * [The Witness]()
