@@ -1,4 +1,4 @@
-*This site is currently under construction. Last updated June 29, 2019 by Alex Proudfoot.*
+*This site is currently under construction. Last updated July 1, 2019 by Alex Proudfoot.*
 
 ----
 
