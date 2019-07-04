@@ -30,10 +30,10 @@ There are two ways of using this toolset depending on whether or not an abbrevia
 
 ### Original Editions
 
-* [Zork I](https://the-infocom-files.github.io/zork1/)
-* [Zork II](https://the-infocom-files.github.io/zork2/)
+* [Zork I: The Great Underground Empire](https://the-infocom-files.github.io/zork1/)
+* [Zork II: The Wizard of Frobozz](https://the-infocom-files.github.io/zork2/)
 * [Deadline](https://the-infocom-files.github.io/deadline/)
-* [Zork III](https://the-infocom-files.github.io/zork3/)
+* [Zork III: The Dungeon Master](https://the-infocom-files.github.io/zork3/)
 * [Starcross](https://the-infocom-files.github.io/starcross/)
 * [Suspended](https://the-infocom-files.github.io/suspended/)
 * [The Witness](https://the-infocom-files.github.io/witness/)
