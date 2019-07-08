@@ -1,4 +1,4 @@
-*This site is currently under construction. Last updated July 1, 2019 by Alex Proudfoot.*
+*This site is currently under construction. Last updated July 8, 2019 by Alex Proudfoot.*
 
 ----
 
@@ -45,7 +45,7 @@ There are two ways of using this toolset depending on whether or not an abbrevia
 * [Cutthroats](https://the-infocom-files.github.io/cutthroats/)
 * [The Hitchhiker's Guide to the Galaxy](https://the-infocom-files.github.io/hitchhiker/)
 * [Suspect](https://the-infocom-files.github.io/suspect/)
-* [Wishbringer](https://the-infocom-files.github.io/wishbringer/)
+* [Wishbringer: The Magick Stone of Dreams](https://the-infocom-files.github.io/wishbringer/)
 * [A Mind Forever Voyaging](https://the-infocom-files.github.io/amfv/)
 * [Spellbreaker](https://the-infocom-files.github.io/spellbreaker/)
 * [Ballyhoo](https://the-infocom-files.github.io/ballyhoo/)
