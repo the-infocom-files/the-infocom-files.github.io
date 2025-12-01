@@ -24,7 +24,8 @@ email:  alex-proudfoot@hotmail.com
 
 description: >- # this means to ignore newlines until "baseurl:"
   A compilation of historical source code,
-  curated and maintained by Alex Proudfoot.
+  curated and maintained by Alex Proudfoot,
+  Torbjörn Andersson and Henrik Åsman.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url:     "" # the base hostname & protocol for your site, e.g. http://example.com
