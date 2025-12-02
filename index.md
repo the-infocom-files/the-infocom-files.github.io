@@ -4,7 +4,7 @@ title:
 list_title: News
 ---
 ## What is here?
-The latest source code of each Infocom game has been imported from Andrew Plotkin's [Obsessively Complete Infocom Catalog](https://eblong.com/infocom/) as a starting point for building working games using the [ZILF](https://zilf.io/) toolset.
+The latest source code of each Infocom game has been imported from the [Obsessively Complete Infocom Catalog](https://eblong.com/infocom/) as a starting point for building working games using the [ZILF](https://zilf.io/) toolset.
 
 ## What will be done with it?
 
